@@ -20,7 +20,7 @@
 
   miracle_sanity:
     'false': 2
-    'true': 8
+    'true': 12
 
   abs_multiplier:
     double: 5
@@ -34,9 +34,9 @@
   attach_mult_config: all
     
   auto_build:
-    'off': 2
-    hundo: 3
-    muska_robot_only: 2
+    'off': 3
+    hundo: 12
+    muska_robot_only: 5
     
   # The game is miserable without these found early
   local_items:

@@ -6,7 +6,7 @@
     5: 4
     4: 1
 
-  all_bosses: true
+  all_bosses: false
   
   progressive_chars: true
   extra_char_buildings: true
